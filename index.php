@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
   <head>
     <meta name="theme-color" content="<?php $_GET['color']?>">
